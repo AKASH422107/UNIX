@@ -1,0 +1,165 @@
+
+
+
+
+.
+├── extracted_tar
+│   └── files
+└── files
+
+3 directories
+
+.
+├── extracted_bz2
+├── extracted_gz
+│   └── files
+├── extracted_tar
+│   └── files
+└── files
+
+6 directories
+
+.
+├── extracted_bz2
+├── extracted_gz
+│   └── files
+├── extracted_tar
+│   └── files
+├── extracted_xz
+│   └── files
+└── files
+
+8 directories
+
+mkdir: cannot create directory ‘extracted_tar’: File exists
+mkdir: cannot create directory ‘extracted_gz’: File exists
+mkdir: cannot create directory ‘extracted_bz2’: File exists
+mkdir: cannot create directory ‘extracted_xz’: File exists
+tar: files/file7.txt: Cannot open: File exists
+tar: files/file5.txt: Cannot open: File exists
+tar: files/file6.txt: Cannot open: File exists
+tar: files/file10.txt: Cannot open: File exists
+tar: files/file8.txt: Cannot open: File exists
+tar: files/file1.txt: Cannot open: File exists
+tar: files/file2.txt: Cannot open: File exists
+tar: files/file9.txt: Cannot open: File exists
+tar: files/file3.txt: Cannot open: File exists
+tar: files/file4.txt: Cannot open: File exists
+tar: files/file0.txt: Cannot open: File exists
+
+
+files/
+files/file7.txt
+files/file5.txt
+files/file6.txt
+files/file10.txt
+files/file8.txt
+files/file1.txt
+files/file2.txt
+files/file9.txt
+files/file3.txt
+files/file4.txt
+files/file0.txt
+
+files/
+files/file7.txt
+files/file5.txt
+files/file6.txt
+files/file10.txt
+files/file8.txt
+files/file1.txt
+files/file2.txt
+files/file9.txt
+files/file3.txt
+files/file4.txt
+files/file0.txt
+
+drwxr-xr-x akash_naik/akash_naik 0 2024-03-03 12:52 files/
+-rw-r--r-- akash_naik/akash_naik 0 2024-03-03 12:52 files/file7.txt
+-rw-r--r-- akash_naik/akash_naik 0 2024-03-03 12:52 files/file5.txt
+-rw-r--r-- akash_naik/akash_naik 0 2024-03-03 12:52 files/file6.txt
+-rw-r--r-- akash_naik/akash_naik 0 2024-03-03 12:52 files/file10.txt
+-rw-r--r-- akash_naik/akash_naik 0 2024-03-03 12:52 files/file8.txt
+-rw-r--r-- akash_naik/akash_naik 0 2024-03-03 12:52 files/file1.txt
+-rw-r--r-- akash_naik/akash_naik 0 2024-03-03 12:52 files/file2.txt
+-rw-r--r-- akash_naik/akash_naik 0 2024-03-03 12:52 files/file9.txt
+-rw-r--r-- akash_naik/akash_naik 0 2024-03-03 12:52 files/file3.txt
+-rw-r--r-- akash_naik/akash_naik 0 2024-03-03 12:52 files/file4.txt
+-rw-r--r-- akash_naik/akash_naik 0 2024-03-03 12:52 files/file0.txt
+
+total 60
+drwxr-xr-x 2 akash_naik akash_naik  4096 Mar  3 13:04 extracted_bz2
+drwxr-xr-x 3 akash_naik akash_naik  4096 Mar  3 13:03 extracted_gz
+drwxr-xr-x 3 akash_naik akash_naik  4096 Mar  3 13:01 extracted_tar
+drwxr-xr-x 3 akash_naik akash_naik  4096 Mar  3 13:06 extracted_xz
+drwxr-xr-x 2 akash_naik akash_naik  4096 Mar  3 12:52 files
+-rw-r--r-- 1 akash_naik akash_naik 10240 Mar  3 13:34 files.tar
+-rw-r--r-- 1 akash_naik akash_naik     0 Mar  3 13:34 files.tar.bz2
+-rw-r--r-- 1 akash_naik akash_naik   243 Mar  3 13:34 files.tar.gz
+-rw-r--r-- 1 akash_naik akash_naik   260 Mar  3 13:34 files.tar.xz
+-rw-r--r-- 1 akash_naik akash_naik 10240 Mar  3 13:34 files_copy.tar
+-rwxr-xr-x 1 akash_naik akash_naik  2153 Mar  3 13:34 tar.sh
+-rw-r--r-- 1 akash_naik akash_naik  2475 Mar  3 13:26 tar_output.txt
+
+total 68
+drwxr-xr-x 2 akash_naik akash_naik  4096 Mar  3 13:04 extracted_bz2
+drwxr-xr-x 3 akash_naik akash_naik  4096 Mar  3 13:03 extracted_gz
+drwxr-xr-x 3 akash_naik akash_naik  4096 Mar  3 13:01 extracted_tar
+drwxr-xr-x 3 akash_naik akash_naik  4096 Mar  3 13:06 extracted_xz
+drwxr-xr-x 2 akash_naik akash_naik  4096 Mar  3 12:52 files
+-rw-r--r-- 1 akash_naik akash_naik 20480 Mar  3 13:35 files.tar
+-rw-r--r-- 1 akash_naik akash_naik     0 Mar  3 13:34 files.tar.bz2
+-rw-r--r-- 1 akash_naik akash_naik   243 Mar  3 13:34 files.tar.gz
+-rw-r--r-- 1 akash_naik akash_naik   260 Mar  3 13:34 files.tar.xz
+-rw-r--r-- 1 akash_naik akash_naik 10240 Mar  3 13:34 files_copy.tar
+-rwxr-xr-x 1 akash_naik akash_naik  2186 Mar  3 13:35 tar.sh
+-rw-r--r-- 1 akash_naik akash_naik  3376 Mar  3 13:35 tar_output.txt
+
+total 0
+-rw-r--r-- 1 akash_naik akash_naik 0 Mar  3 13:38 file0.txt
+-rw-r--r-- 1 akash_naik akash_naik 0 Mar  3 13:38 file1.txt
+-rw-r--r-- 1 akash_naik akash_naik 0 Mar  3 13:38 file10.txt
+-rw-r--r-- 1 akash_naik akash_naik 0 Mar  3 13:38 file2.txt
+-rw-r--r-- 1 akash_naik akash_naik 0 Mar  3 13:38 file3.txt
+-rw-r--r-- 1 akash_naik akash_naik 0 Mar  3 13:38 file4.txt
+-rw-r--r-- 1 akash_naik akash_naik 0 Mar  3 13:38 file5.txt
+-rw-r--r-- 1 akash_naik akash_naik 0 Mar  3 13:38 file6.txt
+-rw-r--r-- 1 akash_naik akash_naik 0 Mar  3 13:38 file7.txt
+-rw-r--r-- 1 akash_naik akash_naik 0 Mar  3 13:38 file8.txt
+-rw-r--r-- 1 akash_naik akash_naik 0 Mar  3 13:38 file9.txt
+files/
+files/file7.txt
+files/file5.txt
+files/file6.txt
+files/file10.txt
+files/file8.txt
+files/file1.txt
+files/file2.txt
+files/file9.txt
+files/file3.txt
+files/file4.txt
+files/file0.txt
+files/
+files/file7.txt
+files/file5.txt
+files/file6.txt
+files/file10.txt
+files/file8.txt
+files/file1.txt
+files/file2.txt
+files/file9.txt
+files/file3.txt
+files/file4.txt
+files/file0.txt
+drwxr-xr-x akash_naik/akash_naik 0 1999-01-01 00:00 files/
+-rw-r--r-- akash_naik/akash_naik 0 1999-01-01 00:00 files/file7.txt
+-rw-r--r-- akash_naik/akash_naik 0 1999-01-01 00:00 files/file5.txt
+-rw-r--r-- akash_naik/akash_naik 0 1999-01-01 00:00 files/file6.txt
+-rw-r--r-- akash_naik/akash_naik 0 1999-01-01 00:00 files/file10.txt
+-rw-r--r-- akash_naik/akash_naik 0 1999-01-01 00:00 files/file8.txt
+-rw-r--r-- akash_naik/akash_naik 0 1999-01-01 00:00 files/file1.txt
+-rw-r--r-- akash_naik/akash_naik 0 1999-01-01 00:00 files/file2.txt
+-rw-r--r-- akash_naik/akash_naik 0 1999-01-01 00:00 files/file9.txt
+-rw-r--r-- akash_naik/akash_naik 0 1999-01-01 00:00 files/file3.txt
+-rw-r--r-- akash_naik/akash_naik 0 1999-01-01 00:00 files/file4.txt
+-rw-r--r-- akash_naik/akash_naik 0 1999-01-01 00:00 files/file0.txt

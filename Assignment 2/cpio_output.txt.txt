@@ -1,0 +1,386 @@
+awk.sh
+awk_output.txt
+cpio.sh
+cpio_output.txt
+cpio: File directory.cpio grew, 512 new bytes not copied
+directory.cpio
+files
+sed.sh
+sed_output.txt
+6 blocks
+
+./q4.sh
+./tree.cpio
+./q5.sh
+./q1.sh
+./q3.sh
+./q2.sh
+./directory.cpio
+./q6.sh
+./UNIX_LAB_1.sh
+./tar_examples/tar.sh
+./tar_examples/backup-
+./tar_examples/files.tar.gz
+./tar_examples/files.tar.xz
+./tar_examples/files.tar
+./tar_examples/files.tar.bz2
+./tar_examples/extracted_gz/files/file7.txt
+./tar_examples/extracted_gz/files/file5.txt
+./tar_examples/extracted_gz/files/file6.txt
+./tar_examples/extracted_gz/files/file10.txt
+./tar_examples/extracted_gz/files/file8.txt
+./tar_examples/extracted_gz/files/file1.txt
+./tar_examples/extracted_gz/files/file2.txt
+./tar_examples/extracted_gz/files/file9.txt
+./tar_examples/extracted_gz/files/file3.txt
+./tar_examples/extracted_gz/files/file4.txt
+./tar_examples/extracted_gz/files/file0.txt
+./tar_examples/extracted_gz/files
+./tar_examples/extracted_gz
+./tar_examples/extracted_tar/files/file7.txt
+./tar_examples/extracted_tar/files/file5.txt
+./tar_examples/extracted_tar/files/file6.txt
+./tar_examples/extracted_tar/files/file10.txt
+./tar_examples/extracted_tar/files/file8.txt
+./tar_examples/extracted_tar/files/file1.txt
+./tar_examples/extracted_tar/files/file2.txt
+./tar_examples/extracted_tar/files/file9.txt
+./tar_examples/extracted_tar/files/file3.txt
+./tar_examples/extracted_tar/files/file4.txt
+./tar_examples/extracted_tar/files/file0.txt
+./tar_examples/extracted_tar/files
+./tar_examples/extracted_tar
+./tar_examples/files_copy.tar
+./tar_examples/tar_output.txt
+./tar_examples/extracted_bz2
+./tar_examples/extracted_xz/files/file7.txt
+./tar_examples/extracted_xz/files/file5.txt
+./tar_examples/extracted_xz/files/file6.txt
+./tar_examples/extracted_xz/files/file10.txt
+./tar_examples/extracted_xz/files/file8.txt
+./tar_examples/extracted_xz/files/file1.txt
+./tar_examples/extracted_xz/files/file2.txt
+./tar_examples/extracted_xz/files/file9.txt
+./tar_examples/extracted_xz/files/file3.txt
+./tar_examples/extracted_xz/files/file4.txt
+./tar_examples/extracted_xz/files/file0.txt
+./tar_examples/extracted_xz/files
+./tar_examples/extracted_xz
+./tar_examples/files/file7.txt
+./tar_examples/files/file5.txt
+./tar_examples/files/file6.txt
+./tar_examples/files/file10.txt
+./tar_examples/files/file8.txt
+./tar_examples/files/file1.txt
+./tar_examples/files/file2.txt
+./tar_examples/files/file9.txt
+./tar_examples/files/file3.txt
+./tar_examples/files/file4.txt
+./tar_examples/files/file0.txt
+./tar_examples/files
+./tar_examples
+./Assignment_2/sed_output.txt
+./Assignment_2/cpio_output.txt
+./Assignment_2/directory.cpio
+./Assignment_2/cpio.sh
+./Assignment_2/awk_output.txt
+./Assignment_2/sed.sh
+./Assignment_2/awk.sh
+./Assignment_2/files/file7.txt
+./Assignment_2/files/file5.txt
+./Assignment_2/files/file6.txt
+./Assignment_2/files/file10.txt
+./Assignment_2/files/file8.txt
+./Assignment_2/files/file1.txt
+./Assignment_2/files/file2.txt
+./Assignment_2/files/file9.txt
+./Assignment_2/files/file3.txt
+./Assignment_2/files/file4.txt
+./Assignment_2/files/file0.txt
+./Assignment_2/files
+./Assignment_2
+.
+102 blocks
+
+Assignment_2
+cpio: UNIX_LAB_1.sh not created: newer or same age version exists
+UNIX_LAB_1.sh
+cpio: q1.sh not created: newer or same age version exists
+q1.sh
+cpio: q2.sh not created: newer or same age version exists
+q2.sh
+cpio: q3.sh not created: newer or same age version exists
+q3.sh
+cpio: q4.sh not created: newer or same age version exists
+q4.sh
+cpio: q5.sh not created: newer or same age version exists
+q5.sh
+cpio: q6.sh not created: newer or same age version exists
+q6.sh
+tar_examples
+12 blocks
+
+cpio: q4.sh not created: newer or same age version exists
+q4.sh
+cpio: tree.cpio not created: newer or same age version exists
+tree.cpio
+cpio: q5.sh not created: newer or same age version exists
+q5.sh
+cpio: q1.sh not created: newer or same age version exists
+q1.sh
+cpio: q3.sh not created: newer or same age version exists
+q3.sh
+cpio: q2.sh not created: newer or same age version exists
+q2.sh
+cpio: directory.cpio not created: newer or same age version exists
+directory.cpio
+cpio: q6.sh not created: newer or same age version exists
+q6.sh
+cpio: UNIX_LAB_1.sh not created: newer or same age version exists
+UNIX_LAB_1.sh
+cpio: tar_examples/tar.sh not created: newer or same age version exists
+tar_examples/tar.sh
+cpio: tar_examples/backup- not created: newer or same age version exists
+tar_examples/backup-
+cpio: tar_examples/files.tar.gz not created: newer or same age version exists
+tar_examples/files.tar.gz
+cpio: tar_examples/files.tar.xz not created: newer or same age version exists
+tar_examples/files.tar.xz
+cpio: tar_examples/files.tar not created: newer or same age version exists
+tar_examples/files.tar
+cpio: tar_examples/files.tar.bz2 not created: newer or same age version exists
+tar_examples/files.tar.bz2
+cpio: tar_examples/extracted_gz/files/file7.txt not created: newer or same age version exists
+tar_examples/extracted_gz/files/file7.txt
+cpio: tar_examples/extracted_gz/files/file5.txt not created: newer or same age version exists
+tar_examples/extracted_gz/files/file5.txt
+cpio: tar_examples/extracted_gz/files/file6.txt not created: newer or same age version exists
+tar_examples/extracted_gz/files/file6.txt
+cpio: tar_examples/extracted_gz/files/file10.txt not created: newer or same age version exists
+tar_examples/extracted_gz/files/file10.txt
+cpio: tar_examples/extracted_gz/files/file8.txt not created: newer or same age version exists
+tar_examples/extracted_gz/files/file8.txt
+cpio: tar_examples/extracted_gz/files/file1.txt not created: newer or same age version exists
+tar_examples/extracted_gz/files/file1.txt
+cpio: tar_examples/extracted_gz/files/file2.txt not created: newer or same age version exists
+tar_examples/extracted_gz/files/file2.txt
+cpio: tar_examples/extracted_gz/files/file9.txt not created: newer or same age version exists
+tar_examples/extracted_gz/files/file9.txt
+cpio: tar_examples/extracted_gz/files/file3.txt not created: newer or same age version exists
+tar_examples/extracted_gz/files/file3.txt
+cpio: tar_examples/extracted_gz/files/file4.txt not created: newer or same age version exists
+tar_examples/extracted_gz/files/file4.txt
+cpio: tar_examples/extracted_gz/files/file0.txt not created: newer or same age version exists
+tar_examples/extracted_gz/files/file0.txt
+tar_examples/extracted_gz/files
+tar_examples/extracted_gz
+cpio: tar_examples/extracted_tar/files/file7.txt not created: newer or same age version exists
+tar_examples/extracted_tar/files/file7.txt
+cpio: tar_examples/extracted_tar/files/file5.txt not created: newer or same age version exists
+tar_examples/extracted_tar/files/file5.txt
+cpio: tar_examples/extracted_tar/files/file6.txt not created: newer or same age version exists
+tar_examples/extracted_tar/files/file6.txt
+cpio: tar_examples/extracted_tar/files/file10.txt not created: newer or same age version exists
+tar_examples/extracted_tar/files/file10.txt
+cpio: tar_examples/extracted_tar/files/file8.txt not created: newer or same age version exists
+tar_examples/extracted_tar/files/file8.txt
+cpio: tar_examples/extracted_tar/files/file1.txt not created: newer or same age version exists
+tar_examples/extracted_tar/files/file1.txt
+cpio: tar_examples/extracted_tar/files/file2.txt not created: newer or same age version exists
+tar_examples/extracted_tar/files/file2.txt
+cpio: tar_examples/extracted_tar/files/file9.txt not created: newer or same age version exists
+tar_examples/extracted_tar/files/file9.txt
+cpio: tar_examples/extracted_tar/files/file3.txt not created: newer or same age version exists
+tar_examples/extracted_tar/files/file3.txt
+cpio: tar_examples/extracted_tar/files/file4.txt not created: newer or same age version exists
+tar_examples/extracted_tar/files/file4.txt
+cpio: tar_examples/extracted_tar/files/file0.txt not created: newer or same age version exists
+tar_examples/extracted_tar/files/file0.txt
+tar_examples/extracted_tar/files
+tar_examples/extracted_tar
+cpio: tar_examples/files_copy.tar not created: newer or same age version exists
+tar_examples/files_copy.tar
+cpio: tar_examples/tar_output.txt not created: newer or same age version exists
+tar_examples/tar_output.txt
+tar_examples/extracted_bz2
+cpio: tar_examples/extracted_xz/files/file7.txt not created: newer or same age version exists
+tar_examples/extracted_xz/files/file7.txt
+cpio: tar_examples/extracted_xz/files/file5.txt not created: newer or same age version exists
+tar_examples/extracted_xz/files/file5.txt
+cpio: tar_examples/extracted_xz/files/file6.txt not created: newer or same age version exists
+tar_examples/extracted_xz/files/file6.txt
+cpio: tar_examples/extracted_xz/files/file10.txt not created: newer or same age version exists
+tar_examples/extracted_xz/files/file10.txt
+cpio: tar_examples/extracted_xz/files/file8.txt not created: newer or same age version exists
+tar_examples/extracted_xz/files/file8.txt
+cpio: tar_examples/extracted_xz/files/file1.txt not created: newer or same age version exists
+tar_examples/extracted_xz/files/file1.txt
+cpio: tar_examples/extracted_xz/files/file2.txt not created: newer or same age version exists
+tar_examples/extracted_xz/files/file2.txt
+cpio: tar_examples/extracted_xz/files/file9.txt not created: newer or same age version exists
+tar_examples/extracted_xz/files/file9.txt
+cpio: tar_examples/extracted_xz/files/file3.txt not created: newer or same age version exists
+tar_examples/extracted_xz/files/file3.txt
+cpio: tar_examples/extracted_xz/files/file4.txt not created: newer or same age version exists
+tar_examples/extracted_xz/files/file4.txt
+cpio: tar_examples/extracted_xz/files/file0.txt not created: newer or same age version exists
+tar_examples/extracted_xz/files/file0.txt
+tar_examples/extracted_xz/files
+tar_examples/extracted_xz
+cpio: tar_examples/files/file7.txt not created: newer or same age version exists
+tar_examples/files/file7.txt
+cpio: tar_examples/files/file5.txt not created: newer or same age version exists
+tar_examples/files/file5.txt
+cpio: tar_examples/files/file6.txt not created: newer or same age version exists
+tar_examples/files/file6.txt
+cpio: tar_examples/files/file10.txt not created: newer or same age version exists
+tar_examples/files/file10.txt
+cpio: tar_examples/files/file8.txt not created: newer or same age version exists
+tar_examples/files/file8.txt
+cpio: tar_examples/files/file1.txt not created: newer or same age version exists
+tar_examples/files/file1.txt
+cpio: tar_examples/files/file2.txt not created: newer or same age version exists
+tar_examples/files/file2.txt
+cpio: tar_examples/files/file9.txt not created: newer or same age version exists
+tar_examples/files/file9.txt
+cpio: tar_examples/files/file3.txt not created: newer or same age version exists
+tar_examples/files/file3.txt
+cpio: tar_examples/files/file4.txt not created: newer or same age version exists
+tar_examples/files/file4.txt
+cpio: tar_examples/files/file0.txt not created: newer or same age version exists
+tar_examples/files/file0.txt
+tar_examples/files
+tar_examples
+cpio: Assignment_2/sed_output.txt not created: newer or same age version exists
+Assignment_2/sed_output.txt
+cpio: Assignment_2/cpio_output.txt not created: newer or same age version exists
+Assignment_2/cpio_output.txt
+cpio: Assignment_2/directory.cpio not created: newer or same age version exists
+Assignment_2/directory.cpio
+cpio: Assignment_2/cpio.sh not created: newer or same age version exists
+Assignment_2/cpio.sh
+cpio: Assignment_2/awk_output.txt not created: newer or same age version exists
+Assignment_2/awk_output.txt
+cpio: Assignment_2/sed.sh not created: newer or same age version exists
+Assignment_2/sed.sh
+cpio: Assignment_2/awk.sh not created: newer or same age version exists
+Assignment_2/awk.sh
+cpio: Assignment_2/files/file7.txt not created: newer or same age version exists
+Assignment_2/files/file7.txt
+cpio: Assignment_2/files/file5.txt not created: newer or same age version exists
+Assignment_2/files/file5.txt
+cpio: Assignment_2/files/file6.txt not created: newer or same age version exists
+Assignment_2/files/file6.txt
+cpio: Assignment_2/files/file10.txt not created: newer or same age version exists
+Assignment_2/files/file10.txt
+cpio: Assignment_2/files/file8.txt not created: newer or same age version exists
+Assignment_2/files/file8.txt
+cpio: Assignment_2/files/file1.txt not created: newer or same age version exists
+Assignment_2/files/file1.txt
+cpio: Assignment_2/files/file2.txt not created: newer or same age version exists
+Assignment_2/files/file2.txt
+cpio: Assignment_2/files/file9.txt not created: newer or same age version exists
+Assignment_2/files/file9.txt
+cpio: Assignment_2/files/file3.txt not created: newer or same age version exists
+Assignment_2/files/file3.txt
+cpio: Assignment_2/files/file4.txt not created: newer or same age version exists
+Assignment_2/files/file4.txt
+cpio: Assignment_2/files/file0.txt not created: newer or same age version exists
+Assignment_2/files/file0.txt
+Assignment_2/files
+Assignment_2
+.
+102 blocks
+
+new-dir/./q4.sh
+new-dir/./tree.cpio
+new-dir/./q5.sh
+new-dir/./q1.sh
+new-dir/./q3.sh
+new-dir/./q2.sh
+new-dir/./directory.cpio
+new-dir/./q6.sh
+new-dir/./UNIX_LAB_1.sh
+new-dir/./tar_examples/tar.sh
+new-dir/./tar_examples/backup-
+new-dir/./tar_examples/files.tar.gz
+new-dir/./tar_examples/files.tar.xz
+new-dir/./tar_examples/files.tar
+new-dir/./tar_examples/files.tar.bz2
+new-dir/./tar_examples/extracted_gz/files/file7.txt
+new-dir/./tar_examples/extracted_gz/files/file5.txt
+new-dir/./tar_examples/extracted_gz/files/file6.txt
+new-dir/./tar_examples/extracted_gz/files/file10.txt
+new-dir/./tar_examples/extracted_gz/files/file8.txt
+new-dir/./tar_examples/extracted_gz/files/file1.txt
+new-dir/./tar_examples/extracted_gz/files/file2.txt
+new-dir/./tar_examples/extracted_gz/files/file9.txt
+new-dir/./tar_examples/extracted_gz/files/file3.txt
+new-dir/./tar_examples/extracted_gz/files/file4.txt
+new-dir/./tar_examples/extracted_gz/files/file0.txt
+new-dir/./tar_examples/extracted_gz/files
+new-dir/./tar_examples/extracted_gz
+new-dir/./tar_examples/extracted_tar/files/file7.txt
+new-dir/./tar_examples/extracted_tar/files/file5.txt
+new-dir/./tar_examples/extracted_tar/files/file6.txt
+new-dir/./tar_examples/extracted_tar/files/file10.txt
+new-dir/./tar_examples/extracted_tar/files/file8.txt
+new-dir/./tar_examples/extracted_tar/files/file1.txt
+new-dir/./tar_examples/extracted_tar/files/file2.txt
+new-dir/./tar_examples/extracted_tar/files/file9.txt
+new-dir/./tar_examples/extracted_tar/files/file3.txt
+new-dir/./tar_examples/extracted_tar/files/file4.txt
+new-dir/./tar_examples/extracted_tar/files/file0.txt
+new-dir/./tar_examples/extracted_tar/files
+new-dir/./tar_examples/extracted_tar
+new-dir/./tar_examples/files_copy.tar
+new-dir/./tar_examples/tar_output.txt
+new-dir/./tar_examples/extracted_bz2
+new-dir/./tar_examples/extracted_xz/files/file7.txt
+new-dir/./tar_examples/extracted_xz/files/file5.txt
+new-dir/./tar_examples/extracted_xz/files/file6.txt
+new-dir/./tar_examples/extracted_xz/files/file10.txt
+new-dir/./tar_examples/extracted_xz/files/file8.txt
+new-dir/./tar_examples/extracted_xz/files/file1.txt
+new-dir/./tar_examples/extracted_xz/files/file2.txt
+new-dir/./tar_examples/extracted_xz/files/file9.txt
+new-dir/./tar_examples/extracted_xz/files/file3.txt
+new-dir/./tar_examples/extracted_xz/files/file4.txt
+new-dir/./tar_examples/extracted_xz/files/file0.txt
+new-dir/./tar_examples/extracted_xz/files
+new-dir/./tar_examples/extracted_xz
+new-dir/./tar_examples/files/file7.txt
+new-dir/./tar_examples/files/file5.txt
+new-dir/./tar_examples/files/file6.txt
+new-dir/./tar_examples/files/file10.txt
+new-dir/./tar_examples/files/file8.txt
+new-dir/./tar_examples/files/file1.txt
+new-dir/./tar_examples/files/file2.txt
+new-dir/./tar_examples/files/file9.txt
+new-dir/./tar_examples/files/file3.txt
+new-dir/./tar_examples/files/file4.txt
+new-dir/./tar_examples/files/file0.txt
+new-dir/./tar_examples/files
+new-dir/./tar_examples
+new-dir/./Assignment_2/sed_output.txt
+new-dir/./Assignment_2/cpio_output.txt
+new-dir/./Assignment_2/directory.cpio
+new-dir/./Assignment_2/cpio.sh
+new-dir/./Assignment_2/awk_output.txt
+new-dir/./Assignment_2/sed.sh
+new-dir/./Assignment_2/awk.sh
+new-dir/./Assignment_2/files/file7.txt
+new-dir/./Assignment_2/files/file5.txt
+new-dir/./Assignment_2/files/file6.txt
+new-dir/./Assignment_2/files/file10.txt
+new-dir/./Assignment_2/files/file8.txt
+new-dir/./Assignment_2/files/file1.txt
+new-dir/./Assignment_2/files/file2.txt
+new-dir/./Assignment_2/files/file9.txt
+new-dir/./Assignment_2/files/file3.txt
+new-dir/./Assignment_2/files/file4.txt
+new-dir/./Assignment_2/files/file0.txt
+new-dir/./Assignment_2/files
+new-dir/./Assignment_2
+219 blocks
+
